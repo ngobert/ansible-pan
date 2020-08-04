@@ -101,7 +101,6 @@ options:
     destination_zone:
         description:
             - destination zone
-        type: list
         required: true
     destination_ip:
         description:
